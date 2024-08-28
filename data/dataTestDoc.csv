@@ -1,0 +1,219 @@
+shipid,dead_weight,flag_name
+8,97730,Spain (Csr)
+110,87760,Bermuda
+459,96840,Bahamas
+659,83160,Bermuda
+742,92802,Spain (Csr)
+2242,85602,Liberia
+8213,87981,Bermuda
+22598,79006,Bermuda
+23144,93508,Liberia
+24547,6018,Netherlands
+24578,75485,Bahamas
+25194,82005,Marshall Islands
+25563,95743,Liberia
+26029,81982,Bermuda
+26095,81950,Bahamas
+26708,84878,Norway (Nis)
+27194,82200,Marshall Islands
+28193,98954,Bermuda
+32109,84303,Malaysia
+34404,92621,Greece
+36148,91515,Singapore
+42581,90654,Singapore
+47683,11930,Netherlands
+52246,90494,Greece
+52521,79166,Spain (Csr)
+53480,93241,Malta
+54677,91201,Malaysia
+56313,79058,Bermuda
+57554,82858,Bahamas
+58193,78984,Bermuda
+62590,83688,Bermuda
+63436,82729,Bahamas
+63595,84291,Malaysia
+64023,1781,Japan
+65205,82338,Panama
+65885,71909,"Korea, South"
+66036,96319,"Hong Kong, China"
+66044,95530,"Hong Kong, China"
+66234,86655,Malta
+66358,73739,Japan
+66484,85214,Bahamas
+66507,90392,Greece
+66569,82564,Bahamas
+66588,73640,Japan
+67243,92782,Spain (Csr)
+67858,87139,Bermuda
+68012,84295,Malaysia
+68475,95378,Bahamas
+68497,66892,Japan
+68622,86497,Japan
+69415,80229,Bahamas
+69666,86778,Panama
+69889,95628,"Hong Kong, China"
+70280,95194,Greece
+70281,92846,Greece
+70385,95713,"Hong Kong, China"
+70474,86241,Japan
+70678,93585,Liberia
+71235,93796,Malta
+71285,82104,Bermuda
+72491,95599,"Hong Kong, China"
+72677,66768,Australia
+75075,79555,Bahamas
+75276,96844,"Hong Kong, China"
+75807,84682,Marshall Islands
+76903,90617,Bahamas
+77820,73795,Japan
+77857,94665,Panama
+78025,77282,Panama
+78542,95194,Greece
+78654,89766,Malta
+79154,90327,Greece
+79281,96740,Norway (Nis)
+79296,82636,Bahamas
+79989,84776,Greece
+80545,86512,Japan
+80807,73705,Malta
+81094,82645,"Hong Kong, China"
+81197,87257,Japan
+82169,12344,Netherlands
+82784,96958,Cyprus
+83485,95194,Greece
+83570,80023,Bahamas
+83613,10957,Malaysia
+83637,154940,Marshall Islands
+83653,82313,Panama
+83654,86161,Japan
+83707,87194,Bahamas
+84108,81936,Bahamas
+84372,86414,Bahamas
+84798,92830,Marshall Islands
+84920,121963,Bahamas
+85320,89953,Malaysia
+85376,81853,Bermuda
+85416,82178,Bermuda
+86837,78403,Bahamas
+86886,122006,Marshall Islands
+86910,88684,Marshall Islands
+87295,77228,Spain (Csr)
+91344,79046,Bermuda
+91900,77803,Malta
+92723,90986,Marshall Islands
+92985,84585,Marshall Islands
+94299,90607,Marshall Islands
+96647,77089,Panama
+97080,96311,"Hong Kong, China"
+97563,86121,Bahamas
+98026,97917,Bahamas
+98615,86455,Bahamas
+109323,130208,Marshall Islands
+109389,72950,Liberia
+113092,79084,Bermuda
+119472,122052,Marshall Islands
+119650,74067,Bahamas
+119788,95253,Bahamas
+121891,82428,"Hong Kong, China"
+122970,89956,Marshall Islands
+123105,84992,Singapore
+133452,90125,Greece
+133729,94575,Algeria
+135347,93241,Malta
+135380,77252,Panama
+135441,78542,Bahamas
+135447,81237,Malta
+135908,104666,Marshall Islands
+136213,11142,Bahamas
+137653,73519,Malaysia
+140515,143309,Marshall Islands
+143819,94575,Algeria
+145493,11001,Panama
+146797,89670,Greece
+147337,82359,"Hong Kong, China"
+154969,88700,Panama
+160073,71997,Panama
+165055,84878,Norway (Nis)
+166841,73040,Liberia
+168969,82424,Bahamas
+170863,82085,Singapore
+170980,74127,Cyprus
+174064,79460,Greece
+185817,93301,Liberia
+186217,130441,Marshall Islands
+189006,95452,Bahamas
+194098,84935,Panama
+194899,83365,Malaysia
+213433,83407,Malaysia
+241475,71543,Liberia
+254469,130026,Marshall Islands
+265778,83050,"Hong Kong, China"
+266994,121957,Marshall Islands
+271476,73519,Malaysia
+278491,96765,Cyprus
+278778,122079,Marshall Islands
+284081,77089,Panama
+284690,143581,Marshall Islands
+302814,82598,"Hong Kong, China"
+307706,95452,Bahamas
+315713,89240,Greece
+317302,94442,Isle Of Man
+364546,71684,"Korea, South"
+374844,82625,"Hong Kong, China"
+458505,96840,Bahamas
+549409,84823,Marshall Islands
+682632,97902,Bahamas
+747601,96821,Bahamas
+808963,92799,Singapore
+814472,97955,Bahamas
+854168,10441,Liberia
+904611,94945,Greece
+957913,96839,Bahamas
+1235566,92996,Greece
+1274316,96779,"Hong Kong, China"
+1354656,95876,Singapore
+1382250,92253,Marshall Islands
+1451024,96354,Spain (Csr)
+1478549,91451,"Hong Kong, China"
+1675580,76064,"Korea, South"
+2108721,15996,"Hong Kong, China"
+2116136,95450,Marshall Islands
+2240925,92764,Bermuda
+2268483,93076,Bermuda
+2457548,95788,Singapore
+2547584,94643,Marshall Islands
+2570635,75154,"Korea, South"
+2663311,89847,Bahamas
+2681113,93534,Malta
+2681244,93668,Malta
+2863432,95488,Marshall Islands
+2894959,94732,Greece
+2926386,93624,Marshall Islands
+2952368,75079,"Korea, South"
+3025955,94649,Marshall Islands
+3173062,93423,Malta
+3227075,88235,Malta
+3270627,94167,Singapore
+3358778,75135,"Korea, South"
+3823859,93321,Malta
+3842862,93080,Greece
+3915389,93566,Malta
+3946257,93799,Marshall Islands
+4591749,92855,Liberia
+4731633,77591,Marshall Islands
+4985666,88817,France (Fis)
+5239834,93080,Marshall Islands
+5426150,45426,Singapore
+5449930,72337,Marshall Islands
+5466515,72348,Marshall Islands
+5469460,72453,Marshall Islands
+5480126,45419,Singapore
+5870450,17233,Netherlands
+6081949,87494,Singapore
+6323438,95548,Norway (Nis)
+6865661,95803,Marshall Islands
+6883689,78997,Indonesia
+7254814,87782,Singapore
+7350431,87677,Malta
+7546563,75849,Liberia
+7588991,87782,Singapore
